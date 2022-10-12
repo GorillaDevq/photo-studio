@@ -1,0 +1,9 @@
+.description {
+  background-image: url(../../images/Background-image/IMAGE.png);
+  min-height: 716px;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: center;
+}

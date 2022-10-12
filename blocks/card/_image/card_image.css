@@ -1,0 +1,26 @@
+.card_image_product {
+  background-image: url(../../../../images/Background-image/1.png);
+  background-size: cover;
+  width: 576px;
+  height: 600px;
+}
+.card_image_architecture {
+  background-image: url(../../../../images/Background-image/2.png);
+  background-size: cover;
+  width: 576px;
+  height: 600px;
+}
+
+.card_image_drone {
+  background-image: url(../../../../images/Background-image/3.png);
+  background-size: cover;
+  width: 576px;
+  height: 600px;
+}
+
+.card_image_wildlife {
+  background-image: url(../../../../images/Background-image/4.png);
+  background-size: cover;
+  width: 576px;
+  height: 600px;
+}

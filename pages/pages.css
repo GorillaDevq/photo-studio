@@ -1,4 +1,48 @@
 /* NORMALIZE section ================================================*/
 @import url(../vendor/normalize.css);
 
+/* FONTS section ================================================*/
+@import url(../fonts/font.css);
+
 /* ROOT block ================================================*/
+@import url(../blocks/root/root.css);
+
+/* LOGO block ================================================*/
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/_place/logo_place_header.css);
+
+/* HEADER section ================================================*/
+@import url(../blocks/header/header.css);
+
+/* NAVBAR block ================================================*/
+@import url(../blocks/navbar/navbar.css);
+@import url(../blocks/navbar/__links/navbar__links.css);
+@import url(../blocks/navbar/_link/navbar__link.css);
+
+@import url(../blocks/button/button.css);
+
+/* DESCRIPTION block ================================================*/
+@import url(../blocks/description/description.css);
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/description/__author/description__author.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+@import url(../blocks/section-subtitle/_position/section-subtitle_position_description.css);
+
+/* photo-signs block ================================================*/
+@import url(../blocks/photo-signs/photo-signs.css);
+@import url(../blocks/photo-signs/__item/photo-signs__item.css);
+@import url(../blocks/photo-signs/__item/_image/photo-signs__item_image.css);
+
+/* theme-cards block ================================================*/
+@import url(../blocks/theme-cards/theme-cards.css);
+@import url(../blocks/theme-cards/__subtitle/theme-cards__subtitle.css);
+
+/* cards block ================================================*/
+@import url(../blocks/cards/cards.css);
+
+/* card block ================================================*/
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/_image/card_image.css);
+@import url(../blocks/card/__title/card__title.css);
+@import url(../blocks/card/__subtitle/card__subtitle.css);
+@import url(../blocks/button/_position/button_position_card.css);
