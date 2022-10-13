@@ -1,0 +1,11 @@
+.fuji-mount {
+  background-image: url(../../images/Background-image/5.png);
+  background-size: cover;
+  min-height: 65vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  position: relative;
+  padding-right: 150px;
+}

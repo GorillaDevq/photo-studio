@@ -1,0 +1,7 @@
+.tools__image {
+  background-image: url(../../../images/Background-image/6.png);
+  background-size: cover;
+  min-height: 55vh;
+  width: 50%;
+  position: relative;
+}

@@ -1,0 +1,10 @@
+.tools__description {
+  background: black;
+  width: 50%;
+  min-height: 55vh;
+  padding: 0 0 0 100px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
