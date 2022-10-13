@@ -1,11 +1,11 @@
-.costa-rica {
-  background-image: url(../../images/Background-image/7.png);
+.nepal {
+  background-image: url(../../images/Background-image/8.png);
   background-size: cover;
   min-height: 65vh;
-  padding-right: 150px;
   display: flex;
   flex-direction: column;
-  align-items: flex-end;
   justify-content: center;
+  align-items: flex-end;
   position: relative;
+  padding-right: 150px;
 }
