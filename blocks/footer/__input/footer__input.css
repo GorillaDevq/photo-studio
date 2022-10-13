@@ -1,0 +1,29 @@
+.footer__input {
+  align-self: center;
+  width: 460px;
+  background: white;
+  border-radius: 12px;
+  box-sizing: border-box;
+  display: flex;
+}
+
+.button-before::before {
+  display: inline-block;
+  content: "";
+  background-image: url(../../images/aperture-black.svg);
+  width: 22px;
+  height: 22px;
+}
+
+.button-before:hover {
+  background: white;
+  cursor: pointer;
+}
+
+.footer__input:hover .button-before::before {
+  animation-name: image;
+  animation-duration: 3s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}

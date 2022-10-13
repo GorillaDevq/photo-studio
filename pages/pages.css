@@ -71,3 +71,27 @@
 
 /* nepal section ================================================*/
 @import url(../blocks/nepal/nepal.css);
+
+/* nepal section ================================================*/
+@import url(../blocks/form-section/form-section.css);
+@import url(../blocks/section-title/_position/section-title_position_form-section.css);
+@import url(../blocks/section-subtitle/_position/section-subtitle_position_form-section.css);
+
+/* input block ================================================*/
+@import url(../blocks/input/input.css);
+
+/* footer section ================================================*/
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__navbar/footer__navbar.css);
+@import url(../blocks/footer/__two-column/footer__two-column.css);
+@import url(../blocks/footer/__column/footer__column.css);
+@import url(../blocks/footer/__paragraph/footer__paragraph.css);
+@import url(../blocks/footer/__column-heading/footer__column-heading.css);
+@import url(../blocks/footer/__list/footer__list.css);
+@import url(../blocks/footer/__item/footer__item.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__form/footer__form.css);
+@import url(../blocks/footer/__text/footer__text.css);
+@import url(../blocks/footer/__input/footer__input.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__social-media/footer__social-media.css);

@@ -1,0 +1,7 @@
+.footer__form {
+  width: 80%;
+  display: flex;
+  border-bottom: 2px solid white;
+  padding: 30px 0;
+  justify-content: space-between;
+}
