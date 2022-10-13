@@ -22,7 +22,7 @@
 
 .footer__input:hover .button-before::before {
   animation-name: image;
-  animation-duration: 3s;
+  animation-duration: 1s;
   animation-timing-function: ease;
   animation-iteration-count: infinite;
   animation-direction: alternate;

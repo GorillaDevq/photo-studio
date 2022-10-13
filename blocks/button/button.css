@@ -44,7 +44,7 @@
 
 .button:hover:before {
   animation-name: image;
-  animation-duration: 3s;
+  animation-duration: 0.5s;
   animation-fill-mode: forwards;
   animation-timing-function: ease;
 }
