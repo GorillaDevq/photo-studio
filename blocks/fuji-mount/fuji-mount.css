@@ -1,7 +1,7 @@
 .fuji-mount {
   background-image: url(../../images/Background-image/5.png);
   background-size: cover;
-  min-height: 65vh;
+  min-height: 600px;
   display: flex;
   flex-direction: column;
   justify-content: center;

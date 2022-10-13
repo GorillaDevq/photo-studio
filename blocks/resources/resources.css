@@ -1,6 +1,6 @@
 .resources {
   background: black;
-  min-height: 55vh;
+  min-height: 500px;
   display: flex;
   flex-direction: column;
   padding: 100px 0;

@@ -1,7 +1,7 @@
 .costa-rica {
   background-image: url(../../images/Background-image/7.png);
   background-size: cover;
-  min-height: 65vh;
+  min-height: 600px;
   padding-right: 150px;
   display: flex;
   flex-direction: column;
